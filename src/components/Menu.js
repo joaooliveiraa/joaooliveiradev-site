@@ -22,6 +22,11 @@ export const Menu = props => {
             </li>
             <li>
               <a href="#projects" onClick={props.toggleMenu}>
+                POSTS
+              </a>
+            </li>
+            <li>
+              <a href="#projects" onClick={props.toggleMenu}>
                 PORTFOLIO
               </a>
             </li>
